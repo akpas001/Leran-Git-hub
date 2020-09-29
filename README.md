@@ -1,2 +1,2 @@
-# Leran-Git-hub
+# Learn-Git-hub
 My first repository
